@@ -1,0 +1,44 @@
+h1 {
+    background-color:turquoise;
+    width: 300px;
+    color: white;
+    text-align: left;
+}
+
+h2 {
+    color: turquoise;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke
+    padding:
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: darkgray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(100, 95, 95);
+  }
+
+img {
+    float: left;
+
+}
+
+body {
+    background-color: gainsboro
+}
